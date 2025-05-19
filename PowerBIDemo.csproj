@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.4" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.72.0" />
+    <PackageReference Include="Microsoft.PowerBI.Api" Version="4.22.0" />
   </ItemGroup>
 
 </Project>
