@@ -50,7 +50,8 @@ public class PowerBIService
         {
             embedToken = tokenResponse.Token,
             embedUrl = report.EmbedUrl,
-            reportId = report.Id
+            reportId = report.Id,
+            reportTitle = "BVM Analytics"
         };
     }
 }
